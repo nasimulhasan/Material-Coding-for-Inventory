@@ -1,4 +1,4 @@
-# Mterial-Coding-for-Inventory
+# Mterial-Coding-System
 
 Material-Coding-for-Inventory is a material/item coding system specially made for **HKD Outdoor Innovations Ltd.**
 
